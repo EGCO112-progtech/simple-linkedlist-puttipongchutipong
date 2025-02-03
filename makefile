@@ -1,8 +1,8 @@
 compile: main.c 
-	 gcc main.c -o ming
+	 gcc main.c -o film
 
-run: ming
-	 ./ming
+run: film
+	 ./film
 
-clean: ming
-	 rm ming
+clean: film
+	 rm film
